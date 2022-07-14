@@ -1,2 +1,2 @@
 # SimpleHangman
-Just a test....
+### A basic program created using Python
